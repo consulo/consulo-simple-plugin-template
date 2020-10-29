@@ -1,0 +1,12 @@
+<consulo-plugin>
+	<id>consulo.simple.plugin</id>
+	<name>Simple Plugin</name>
+	<description>Simple Plugin template</description>
+	<localize>consulo.simple.plugin.SimpleLocalize</localize>
+
+	<actions>
+		<action id="SimpleHelloWorld" class="consulo.simple.plugin.action.HelloWorldAction">
+			<add-to-group group-id="ToolsMenu"/>
+		</action>
+	</actions>
+</consulo-plugin>
