@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="consulo:run-desktop" type="MavenRunConfiguration" factoryName="Maven" singleton="true">
+  <configuration default="false" name="consulo:run-desktop-awt-fork" type="MavenRunConfiguration" factoryName="Maven" singleton="true">
     <MavenSettings>
       <option name="myGeneralSettings" />
       <option name="myRunnerSettings" />
@@ -10,7 +10,7 @@
           </option>
           <option name="goals">
             <list>
-              <option value="consulo:run-desktop" />
+              <option value="consulo:run-desktop-awt-fork" />
             </list>
           </option>
           <option name="profilesMap">
