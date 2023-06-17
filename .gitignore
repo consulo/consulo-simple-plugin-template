@@ -8,5 +8,4 @@
 /.consulo/copyright/profiles_settings.xml
 /.consulo/libraries/     
 /.consulo/sandbox/    
-/out
-/target
+target/

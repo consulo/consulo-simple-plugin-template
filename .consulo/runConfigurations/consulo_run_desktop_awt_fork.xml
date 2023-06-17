@@ -11,6 +11,8 @@
           <option name="goals">
             <list>
               <option value="consulo:run-desktop-awt-fork" />
+              <option value="-pl" />
+              <option value="consulo.plugin:consulo.simple.plugin" />
             </list>
           </option>
           <option name="profilesMap">
