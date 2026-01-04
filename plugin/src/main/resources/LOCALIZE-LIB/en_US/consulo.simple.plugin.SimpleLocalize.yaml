@@ -1,4 +1,6 @@
+action.SimpleHelloWorld.description:
+    text: Show Hello World
 action.SimpleHelloWorld.text:
-  text: 'Show Hello World'
+    text: Hello World
 simpleHelloWorld.message:
-  text: 'Hello World'
+    text: Hello World
